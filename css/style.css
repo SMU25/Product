@@ -769,6 +769,7 @@
             line-height: 28px;
         }
         .menu__list a:hover {
+            color: #ffffff;
             opacity: 0.8;
         }
         .menu__btn {
